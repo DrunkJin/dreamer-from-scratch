@@ -116,6 +116,11 @@ for t in range(horizon):
 | Acrobot-v1 | Discrete | Hard | Swing up double pendulum (sparse -1 reward) |
 | LunarLander-v3 | Discrete | Hard | Land spacecraft (complex multi-phase reward) |
 
+## Blog Post
+
+For a detailed walkthrough of this implementation, check out:
+[DreamerV3 World Model RL: PyTorch Implementation](https://tildalice.io/dreamerv3-world-model-rl-pytorch-implementation/)
+
 ## Related Projects
 
 - [simpleRL-reason](https://github.com/DrunkJin/simpleRL-reason) — DQN to PPO from scratch
